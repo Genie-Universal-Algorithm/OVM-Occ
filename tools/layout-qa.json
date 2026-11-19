@@ -1,0 +1,31 @@
+{
+  "overview_source": [
+    "网页开发/材料/TeacherConstuct.pdf",
+    "网页开发/材料/StudentModel.pdf"
+  ],
+  "overview_resolution": [
+    6000,
+    1666
+  ],
+  "overview_from_screenshot": false,
+  "contribution_cards": 4,
+  "contribution_numbers_removed": true,
+  "abstract_width": "100% of page container",
+  "method_images_max_height": 400,
+  "method_image_aspect_ratio_preserved": true,
+  "main_headings": [
+    "Experiments",
+    "Application"
+  ],
+  "scene_panels_visible": 9,
+  "scene_tabs": 0,
+  "comparison_layout": "4 columns in one row per scene",
+  "new_comparison_videos": "both fully decoded; shared all-frame foreground crop per scene",
+  "resource_and_anchor_check": "pass",
+  "browser_visual_test": "not run: local browser tool unavailable",
+  "preserved_user_removed_content": [
+    "hero description",
+    "Results section"
+  ],
+  "javascript_syntax": "pass"
+}

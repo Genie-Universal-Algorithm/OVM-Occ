@@ -1,0 +1,9 @@
+{
+  "source": "assets/videos/office-e1.mp4",
+  "output": "assets/videos/office-e1-20s.mp4",
+  "source_duration": 40,
+  "duration": 20,
+  "fps": 4,
+  "speed_multiplier": 2,
+  "full_decode": "pass"
+}

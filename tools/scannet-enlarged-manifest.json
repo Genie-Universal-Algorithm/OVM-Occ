@@ -1,0 +1,14 @@
+{
+  "output": "assets/videos/comparison-scannet-enlarged.mp4",
+  "shared_crop_xywh": [
+    540,
+    296,
+    1892,
+    1556
+  ],
+  "occupancy_zoom": 1.0965468639887244,
+  "duration": 15,
+  "fps": 2,
+  "rgb_scale": "unchanged",
+  "full_decode": "pass"
+}

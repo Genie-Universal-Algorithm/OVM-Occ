@@ -1,0 +1,15 @@
+{
+  "sources": [
+    "AI Day/高清剪辑素材/茶水间 3367531/input.mov",
+    "AI Day/高清剪辑素材/茶水间 3367531/local.mov",
+    "AI Day/高清剪辑素材/电梯厅 3338370/input.mov",
+    "AI Day/高清剪辑素材/电梯厅 3338370/local.mov"
+  ],
+  "output": "assets/videos/fewshot-tearoom-elevator.mp4",
+  "duration": 15,
+  "fps": 2,
+  "layout": "Tearoom RGB / Tearoom Occupancy Prediction / Elevator RGB / Elevator Occupancy Prediction",
+  "global_map_panels": false,
+  "processing": "Full source frames, equal panel sizes, original playback speed; transparent pixels composited onto white.",
+  "all_frames_decode": "pass"
+}

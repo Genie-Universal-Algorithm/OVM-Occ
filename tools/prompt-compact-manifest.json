@@ -1,0 +1,14 @@
+{
+  "source": "assets/videos/open-vocabulary-prompt-story.mp4",
+  "output": "assets/videos/open-vocabulary-prompt-compact.mp4",
+  "crop_xywh": [
+    48,
+    76,
+    1824,
+    824
+  ],
+  "duration": 25.133333333333333,
+  "fps": 30,
+  "processing": "Remove brand/header and footer explanation, retain stage strip, RGB/occupancy panels, annotations and prompt labels.",
+  "full_decode": "pass"
+}

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "comparison-scannet",
+    "sources": [
+      "AI Day/高清剪辑素材/卧室 ScanNet_scene0000_00/input.mp4",
+      "AI Day/高清剪辑素材/卧室 ScanNet_scene0000_00/ground_truth.mov",
+      "AI Day/高清剪辑素材/卧室 ScanNet_scene0000_00/Baseline.mov",
+      "AI Day/高清剪辑素材/卧室 ScanNet_scene0000_00/Ours.mov"
+    ],
+    "duration": 15.0,
+    "fps": 2.0,
+    "width": 1280,
+    "height": 1056,
+    "bytes": 3453129,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "comparison-replica",
+    "sources": [
+      "AI Day/高清剪辑素材/卧室 Replica_room1/input.mp4",
+      "AI Day/高清剪辑素材/卧室 Replica_room1/ground_truth.mov",
+      "AI Day/高清剪辑素材/卧室 Replica_room1/Baseline.mov",
+      "AI Day/高清剪辑素材/卧室 Replica_room1/Ours.mov"
+    ],
+    "duration": 26.0,
+    "fps": 2.0,
+    "width": 1280,
+    "height": 1056,
+    "bytes": 6673266,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "tearoom",
+    "sources": [
+      "AI Day/高清剪辑素材/茶水间 3367531/input.mov",
+      "AI Day/高清剪辑素材/茶水间 3367531/local.mov",
+      "AI Day/高清剪辑素材/茶水间 3367531/global.mov"
+    ],
+    "duration": 15.0,
+    "fps": 2.0,
+    "width": 1620,
+    "height": 454,
+    "bytes": 1875553,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "elevator",
+    "sources": [
+      "AI Day/高清剪辑素材/电梯厅 3338370/input.mov",
+      "AI Day/高清剪辑素材/电梯厅 3338370/local.mov",
+      "AI Day/高清剪辑素材/电梯厅 3338370/global.mov"
+    ],
+    "duration": 15.0,
+    "fps": 2.0,
+    "width": 1620,
+    "height": 454,
+    "bytes": 1565498,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "office-e2",
+    "sources": [
+      "AI Day/高清剪辑素材/办公室E2/input.mov",
+      "AI Day/高清剪辑素材/办公室E2/local.mov",
+      "AI Day/高清剪辑素材/办公室E2/global.mov"
+    ],
+    "duration": 16.0,
+    "fps": 5.0,
+    "width": 1620,
+    "height": 454,
+    "bytes": 2961877,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "living-room",
+    "sources": [
+      "AI Day/高清剪辑素材/客厅 scene0024_02/input.mp4",
+      "AI Day/高清剪辑素材/客厅 scene0024_02/local.mov",
+      "AI Day/高清剪辑素材/客厅 scene0024_02/global.mov"
+    ],
+    "duration": 15.0,
+    "fps": 2.0,
+    "width": 1620,
+    "height": 454,
+    "bytes": 1667306,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "supermarket",
+    "sources": [
+      "AI Day/高清剪辑素材/超市 supermarket/input.mp4",
+      "AI Day/高清剪辑素材/超市 supermarket/local.mov",
+      "AI Day/高清剪辑素材/超市 supermarket/global.mov"
+    ],
+    "duration": 23.0,
+    "fps": 5.0,
+    "width": 1620,
+    "height": 454,
+    "bytes": 6987370,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "office-e1",
+    "sources": [
+      "AI Day/高清剪辑素材/办公室E1/input.mov",
+      "AI Day/高清剪辑素材/办公室E1/local.mov",
+      "AI Day/高清剪辑素材/办公室E1/global.mov"
+    ],
+    "duration": 40.0,
+    "fps": 2.0,
+    "width": 1620,
+    "height": 454,
+    "bytes": 4004413,
+    "processing": "Full source frames fitted without cropping; alpha composited on white; original playback rate; H.264 web copy."
+  },
+  {
+    "id": "navigation",
+    "sources": [
+      "AI Day/高清剪辑素材/具身导航 scene0420_01/composite.mov"
+    ],
+    "duration": 50.0,
+    "fps": 2.0,
+    "bytes": 8561344,
+    "processing": "Complete labelled composite, fitted to 1920px width; original playback rate; H.264."
+  }
+]

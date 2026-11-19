@@ -1,0 +1,9 @@
+{
+  "source": "assets/videos/navigation.mp4",
+  "output": "assets/videos/navigation-25-45s.mp4",
+  "source_start_seconds": 25,
+  "source_end_seconds": 45,
+  "duration": 20,
+  "fps": 2,
+  "full_decode": "pass"
+}

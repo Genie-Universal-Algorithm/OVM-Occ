@@ -1,0 +1,6 @@
+{
+  "source": "AI Day/最终MOV汇总/开集.webm",
+  "output": "assets/videos/open-vocabulary-prompt-switching.mp4",
+  "processing": "Full original recording, resized proportionally to 1920 px wide; prompt editing and apply action retained; original playback timing preserved.",
+  "full_decode": "pass"
+}

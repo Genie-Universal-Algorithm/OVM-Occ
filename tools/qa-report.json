@@ -1,0 +1,24 @@
+{
+  "static_resources": "pass",
+  "unique_ids_and_aria_targets": "pass",
+  "table_fidelity_to_pages_md": "all cells pass in all 4 tables",
+  "video_decode": "all 9 videos pass",
+  "source_duration_preserved": true,
+  "decoded_videos": [
+    "comparison-scannet",
+    "comparison-replica",
+    "tearoom",
+    "elevator",
+    "office-e2",
+    "living-room",
+    "supermarket",
+    "office-e1",
+    "navigation"
+  ],
+  "javascript_syntax": "checked separately with node --check",
+  "browser_visual_and_interaction_test": "not run: local browser use disabled",
+  "reference_site": "unavailable during build",
+  "public_deployment": false,
+  "http_preview": "200 OK",
+  "video_range_request": "206 Partial Content; bytes 0–1023 returned with correct length"
+}
